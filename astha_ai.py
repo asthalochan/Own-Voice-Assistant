@@ -5,7 +5,7 @@ import speech_recognition as sr
 listner = sr.Recognizer()
 
 wlc= audio_out("hello , Welcome to Aastthaa AI ")
-openai.api_key = "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"
+openai.api_key = "*********************************"
 
 print("-: Welcome to Astha's AI:- ")
 while True:
