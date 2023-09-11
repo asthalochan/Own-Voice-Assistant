@@ -1,7 +1,7 @@
 Creating a Voice Assistant with Python and ChatGPT API
 =======================================================
 
-![Voice Assistant Demo]([voice_assistant_demo.gif](https://cdn.dribbble.com/users/2501555/screenshots/5965492/flo-motion_5sec.gif))
+![voice_assistant_demo.gif]([https://cdn.dribbble.com/users/2501555/screenshots/5965492/flo-motion_5sec.gif](https://cdn.dribbble.com/users/2501555/screenshots/5965492/flo-motion_5sec.gif)](https://cdn.dribbble.com/users/2501555/screenshots/5965492/flo-motion_5sec.gif))
 
 ## Introduction
 
